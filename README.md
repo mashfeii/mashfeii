@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LayMorja
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning JavaScript for now (already after HTML5, CSS3, SCSS, ...)
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 📧 ( evil-corporaty@yandex.ru ), 🐳 ( @laymorja )
 
 <!---
