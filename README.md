@@ -2,7 +2,7 @@
 <h3 align="center">Front-end developer from tiny town</h3>
 
 - 🌱 I’m currently learning **JavaScript** and its **frameworks**, **C++** for competitive programming
-- 📫 How to reach me **evil-corporaty@yandex.ru**, **@lay_morja** in telegram
+- 📫 How to reach me: **evil-corporaty@yandex.ru**, **@lay_morja** in telegram
 
 <hr>
 <h4 align="left">Languages and Tools:</h4>
