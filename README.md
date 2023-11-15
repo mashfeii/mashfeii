@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mashenkov Timofey</h1>
-<hr>
 <h3 align="center">Front-end developer from tiny town</h3>
 - 🌱 I’m currently learning **JavaScript** and its **frameworks**, **C++** for competitive programming
 - 📫 How to reach me **evil-corporaty@yandex.ru**, **@lay_morja** in telegram
