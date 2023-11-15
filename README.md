@@ -3,9 +3,8 @@
 <h3 align="center">Front-end developer from tiny town</h3>
 <hr>
 - 🌱 I’m currently learning **JavaScript** and its **frameworks**, **C++** for competitive programming
-
 - 📫 How to reach me **evil-corporaty@yandex.ru**, **@lay_morja** in telegram
-- <hr>
+<hr>
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -32,7 +31,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
   </a>
 </p>
-
+<hr>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laymorja&show_icons=true&theme=dark&title_color=00ffe1&hide_border=true&locale=en&layout=compact" alt="laymorja" />
 </p>
