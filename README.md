@@ -1,3 +1,4 @@
+<img src="https://kwork.ru/files/uploaded/a0/ce/e9/c334f9e576/telegram-cloud-photo-size-2-5204055153957794302-y.jpg"/>
 <h1 align="center">Hi 👋, I'm Timofei</h1>
 <h3 align="center">A passionate Back-end with Front-past Developer from tiny city</h3>
 
@@ -24,3 +25,4 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mashfeii&layout=compact" /></p>
+<img src="https://kwork.ru/files/uploaded/a0/ce/e9/c334f9e576/telegram-cloud-photo-size-2-5204055153957794302-y.jpg"/>
